@@ -1,11 +1,11 @@
 ip, rtt (ms)
-google.com, 82 ms
-chatgpt.com, 100 ms
-nsu.ru, 8 ms
-ya.ru, 61 ms
-gismeteo.ru, Ping failed
-pypi.org, 108 ms
-youtube.com, 70 ms
-vk.com, 65 ms
-ru.wikipedia.org, 107 ms
-otvet.mail.ru, 80 ms
+google.com, 76
+chatgpt.com, 343
+nsu.ru, 22
+ya.ru, 72
+gismeteo.ru, 69
+pypi.org, 102
+youtube.com, 105
+vk.com, 68
+ru.wikipedia.org, 109
+otvet.mail.ru, 58
