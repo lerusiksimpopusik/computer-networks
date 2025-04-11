@@ -11,9 +11,9 @@ from selenium.webdriver.support import expected_conditions as EC
 options = Options()
 options.add_argument("--headless")
 options.add_argument("--disable-blink-features=AutomationControlled")
+
 service = Service()
 driver = webdriver.Chrome(service=service, options=options)
-# driver.maximize_window()
 
 base_url = "https://novosibirsk.cian.ru/cat.php?deal_type=rent&engine_version=2&location%5B0%5D=201245&offer_type=flat&p={}&room1=1&room2=1&type=4"
 
